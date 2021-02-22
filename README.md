@@ -1,1 +1,3 @@
 # Description
+The concept behind the smart screen calendar is displaying useful information like weather, time, date, and other important tasks to be done. This is the general information that we need not only in the morning but all through the day. To be productive and efficient, it becomes crucial to make most of the time available during the day. This project provides a clear example of how technology can be useful in making our daily life simple and easy.
+The idea about the smart screen calendar is derived from the IOT concept with an effort to make everything around smart. The basic goal is providing people with smart technology making their daily routine simple and easy. Connecting Alexa using IOT enables the communication between user and a device.
